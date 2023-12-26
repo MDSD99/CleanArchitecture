@@ -1,0 +1,5 @@
+﻿<Properties StartupConfiguration="{E374354C-07B1-429B-BE4E-EBA46D871F3D}|Unit Tests" GitUserInfo="UsingGIT">
+  <MonoDevelop.Ide.ItemProperties.Test.CleanArchitecture.UnitTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Services.src.CleanArchitecture.WebApi PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+</Properties>
